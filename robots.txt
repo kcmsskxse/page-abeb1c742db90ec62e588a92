@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bctkuvf.cn/sitemap.xml
